@@ -32,10 +32,10 @@ const planets = [
     x: sun.x, // Initial x position (centered on sun)
     y: sun.y, // Initial y position (centered on sun)
     radius: 40, // Increased radius
-    color: '##55bd3e', // Green
+    color: '#55bd3e', // Green
     speed: 0.005, // Adjust for orbital speed
     name: 'Info', // Planet name
-    info: 'This is Planet 1. More information about Planet 1 can be displayed here.'
+    info: 'This obsession page is something I made since I think space is cool. I made this in a few hours and I think it looks cool. It was tough since I kept forgetting to close the tab and I would run out of development time.'
   },
   {
     x: sun.x, // Initial x position (centered on sun)
@@ -44,7 +44,7 @@ const planets = [
     color: '#dc3545', // Red
     speed: 0.01,
     name: 'Tartarus',
-    info: 'This is Tartarus. Since I did not have much time as this website was past its due date, I decided to name this planet after a place from Greek mythology..'
+    info: 'This is Tartarus. Since I did not have much time as this website was past its due date, I decided to name this planet after a place from Greek mythology.'
   },
   {
     x: sun.x, // Initial x position (centered on sun)
@@ -52,8 +52,8 @@ const planets = [
     radius: 30, // Increased radius
     color: '#007bff', // Blue
     speed: 0.02,
-    name: 'Info',
-    info: 'This is Planet 3. More information about Planet 3 can be displayed here.'
+    name: 'Poseidon',
+    info: 'I named this planet after one of the Gods in Greek Mythology.'
   },
   // Add more planets here with different properties
 ];
